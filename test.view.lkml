@@ -4,7 +4,7 @@ view: test {
 
   dimension: version {
     type: number
-    sql: 1 ;;
+    sql: 2 ;;
   }
 
 }
